@@ -1,0 +1,8 @@
+authtoken: 2ZrCu7qAkZg9mgfKY7PnStxnnTW_2MN8pV3QY9LxpBTYXtaGU
+
+tunnels:
+  app1:
+    addr: 3000
+    proto: http
+
+  

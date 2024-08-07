@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/style.css">
+  <title>Chemical Label Generator</title>
+</head>
+<body>
+  <h1>Chemical Label Generator</h1>
+  <form action="/upload" method="post">
+    <label for="Name">Name:</label>
+    <input type="text" id="Name" name="Name" required><br>
+
+    <label for="ItemCode">Item Code:</label>
+    <input type="text" id="ItemCode" name="ItemCode" required><br>
+
+    <label for="StorageLocation">Storage Location:</label>
+    <input type="text" id="StorageLocation" name="StorageLocation" required><br>
+
+    <label for="AssetNum">Asset #:</label>
+    <input type="text" id="AssetNum" name="AssetNum"><br>
+
+    <label for="TankNum">Tank #:</label>
+    <input type="text" id="TankNum" name="TankNum"><br>
+
+    <label for="Description">Description:</label>
+    <textarea id="Description" name="Description"></textarea><br>
+
+    <input type="submit" value="Upload">
+  </form>
+</body>
+</html>

@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chemicaltracking-dev-125818-authRole",
+      "UnauthRoleArn": "arn:aws:iam::571417414963:role/amplify-chemicaltracking-dev-125818-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::571417414963:role/amplify-chemicaltracking-dev-125818-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-chemicaltracking-dev-125818-deployment",
+      "UnauthRoleName": "amplify-chemicaltracking-dev-125818-unauthRole",
+      "StackName": "amplify-chemicaltracking-dev-125818",
+      "StackId": "arn:aws:cloudformation:us-east-1:571417414963:stack/amplify-chemicaltracking-dev-125818/12eb3030-a0fc-11ee-8aba-0e2010ff53fd",
+      "AmplifyAppId": "d2g04mkyihlww4"
+    }
+  }
+}
